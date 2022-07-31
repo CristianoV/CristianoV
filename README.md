@@ -2,7 +2,7 @@
 Ola 👋
 </h3>
 <p align="center">
-Me chamo Cristiano, e sou um desenvolvedor Full Stack
+Me chamo Cristiano, e sou um estudante de desenvolvimento web Full Stack
 </p>
 
 
