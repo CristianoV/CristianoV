@@ -16,11 +16,6 @@ Aqui esta algumas informações sobre mim!
 como montar uma aplicação Front End a peças para computador.
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Email-d44638?style=flat&logo=Gmail&logoColor=white&link=mailto:cristianoviieira@gmail.com" alt="Linkedin"/> </a> <a href="mailto:cristianoviieira@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianov/" alt="Linkedin"/> </a> <a href="https://www.linkedin.com/in/cristianov/" target="_blank">
-</p>
-
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
