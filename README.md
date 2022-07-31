@@ -16,6 +16,8 @@ Aqui esta algumas informações sobre mim!
 como montar uma aplicação Front End a peças para computador.
 </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianov/)](https://www.linkedin.com/in/cristianov/)
+
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
