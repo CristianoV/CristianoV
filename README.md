@@ -11,7 +11,7 @@ Aqui esta algumas informações sobre mim!
 </h3>
 
 <p align="center">
-🌱 Atualmente estou estudando sobre Node.js, uma tecnologia maravilhosa vindo do Javascript voltada ao BackEnd.
+🌱 Atualmente estou estudando sobre POO(Programação Orientada a Objetos), um paradigma de programação baseado no conceito de "objetos" e Typescript.
 </p>
 
 <p align="center">
