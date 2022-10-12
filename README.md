@@ -41,3 +41,5 @@ como montar uma aplicação Front End a peças para computador.
 -->
 
   ![Snake animation](https://github.com/CristianoV/CristianoV/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
