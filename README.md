@@ -39,7 +39,3 @@ como montar uma aplicação Front End a peças para computador.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoV&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoV&layout=compact&theme=dark)](https://github.com/CristianoV/github-readme-stats&theme=dark)
 -->
-
-  ![Snake animation](https://github.com/CristianoV/CristianoV/blob/output/github-contribution-grid-snake.svg)
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
