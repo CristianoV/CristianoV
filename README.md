@@ -37,6 +37,14 @@ como montar uma aplicação Front End a peças para computador.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="32"/> </a>
 </p>
   
+<div align="center">
+### 🔎 Onde me encontrar
+
+  <a href="https://www.instagram.com/cristiianov/" target="_blank"><img             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cristianoviieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cristianov/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+  
 <p align="center">
   Você pode <a href="https://gitconnected.com/cristianov/resume" download="curriculo-anaclaudia" download>clicar aqui</a> para ver meu currículo.
 </p>
