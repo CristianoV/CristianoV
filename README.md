@@ -22,7 +22,7 @@ como montar uma aplicação Front End a peças para computador.
 </p>
 
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
+<h2 align="center">Linguagens e Ferramentas:</h2>
 <p align="center"><a href="https://getbootstrap.com" target="_blank">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/> </a>
@@ -38,7 +38,7 @@ como montar uma aplicação Front End a peças para computador.
 </p>
   
 <div align="center">
-### 🔎 Onde me encontrar
+  <h2>🔎 Onde me encontrar</h1>
 
   <a href="https://www.instagram.com/cristiianov/" target="_blank"><img             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cristianoviieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
