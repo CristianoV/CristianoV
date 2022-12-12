@@ -13,7 +13,7 @@ Aqui esta algumas informações sobre mim!
 </h3>
 
 <p align="center">
-🌱 Atualmente estou estudando sobre Typescript e POO(Programação Orientada a Objetos), um paradigma de programação baseado no conceito de "objetos".
+🌱 Atualmente estou estudando sobre Python e POO(Programação Orientada a Objetos), um paradigma de programação baseado no conceito de "objetos".
 </p>
 
 <p align="center">
