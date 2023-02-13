@@ -84,8 +84,3 @@ como montar uma aplicação Front End a peças para computador.
 <p align="center">
   Você pode <a href="https://gitconnected.com/cristianov/resume" download="curriculo-anaclaudia" download>clicar aqui</a> para ver meu currículo.
 </p>
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoV&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoV&layout=compact&theme=dark)](https://github.com/CristianoV/github-readme-stats&theme=dark)
--->
