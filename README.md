@@ -6,6 +6,32 @@
 
 -----
 
+<div>
+<table>
+<tr>
+ <td align="center" colspan="7"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/CristianoV" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:cristianoviieira@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5551997340308" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/cristiianov/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/insta.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/cristianov/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<!-- <td> <a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="50px" height="50px"/></a>
+</td> -->
+<td><a href="https://calendly.com/cristianov/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/calendar.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="7"></td>
+</tr> 
+</table>
+
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <b>Cristiano</b>, tenho 26 anos, sou de NH e comecei na programação com 15 anos de idade.</i>
 </div>
@@ -110,17 +136,11 @@
 </div>
 
 -----
-  
-<div align="center">
-  <h2>🔎 Onde me encontrar</h1>
-
-  <a href="https://www.instagram.com/cristiianov/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cristianoviieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristianov/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
-  
+ 
 <p align="center">
   Você pode <a href="https://gitconnected.com/cristianov/resume" download="curriculo-anaclaudia" download>clicar aqui</a> para ver meu currículo.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianov&label=Profile%20views&color=0e75b6&style=flat" alt="cristianov" /> </p>
+  
+-----
