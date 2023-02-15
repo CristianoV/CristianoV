@@ -101,10 +101,11 @@
 
 -----
 
-<div>
-  <div>
-    <img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristianoV&theme=github_dark"/>
-   </div>
+<div align="center">
+  <img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristianoV&theme=github_dark"/>
+</div>
+
+<div align="center">
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristianoV&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cristianov&theme=github_dark"/>
 </div>
