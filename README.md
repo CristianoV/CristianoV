@@ -20,10 +20,10 @@
 - :atom: &nbsp; Sou entusiasta da Linguagem JavaScript, TypeScript <br /> buscando conhecimento em Python<br />
 - :octocat:&nbsp; Tenho 1 cachorro chamado Floki<br />
 - :soccer:&nbsp; Sou Grêmista, torço para o <a href="https://gremio.net/" target="_blank">Grêmio</a>.<br />
-- :basketball: &nbsp; Meus hobbies são ir ao Cinema, Codar<br /> e Jogar Video Game<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa,<br /> adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:cristianoviieira@gmail.com" target="_blank">pessoal</a><br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/cristianov/reuniao-de-30-minutos" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+- :basketball:&nbsp; Meus hobbies são ir ao Cinema, Codar<br /> e Jogar Video Game<br />
+- :speech_balloon:&nbsp; Pergunte-me sobre qualquer coisa,<br /> adoro ajudar pessoas.<br />
+- :mailbox:&nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:cristianoviieira@gmail.com" target="_blank">pessoal</a><br />
+- :calendar:&nbsp; Essa é minha <a href="https://calendly.com/cristianov/reuniao-de-30-minutos" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 - :page_facing_up: &nbsp; Veja meu <a href="https://gitconnected.com/cristianov/resume" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
