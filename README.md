@@ -6,6 +6,19 @@
 
 -----
 
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Sobre mim:
+
+<div align="justify">
+  Eu sou um desenvolvedor Full-stack com habilidades em JavaScript, TypeScript e Python. Utilizo as tecnologias Node.js, Express.js e Nextjs para construir aplicações web escaláveis e performáticas. Tenho experiência com bancos de dados MongoDB e SQL, além de dominar os frameworks de teste Jest, Mocha e Chai. Também possuo conhecimento avançado em React, HTML5 e CSS 3, incluindo Bootstrap e tailwindcss.
+
+
+  No ano de 2021, decidi mudar de carreira, pois não estava mais satisfeito com o meu trabalho anterior. Sempre gostei de aprender e de construir coisas que pudessem ajudar as pessoas, mas não me sentia realizado no que eu estava fazendo. Foi então que comecei a estudar programação e descobri a Trybe, uma escola de desenvolvimento web com mais de 1500 horas de conteúdo.
+
+  Na Trybe, me especializei em habilidades como JavaScript, TypeScript, Python, React, Node.js, Testes, MySql, MongoDB e outras tecnologias de desenvolvimento web. Com as habilidades que adquiri, agora estou em busca de novas oportunidades para continuar crescendo na minha carreira na tecnologia e ajudar a construir soluções que possam impactar positivamente a vida das pessoas. Estou sempre em busca de novos desafios e aprendizados constantes para me tornar um profissional cada vez mais capacitado
+</div>
+
+-----
+
 <div>
 <div>
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="350px" height="350px"/>
