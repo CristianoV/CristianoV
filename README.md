@@ -101,27 +101,6 @@
 </p>
 
 -----
-
-<h3 align="center">
-Ola 👋
-</h3>
-<p align="center">
-Me chamo Cristiano, e sou um estudante de desenvolvimento web Full Stack
-</p>
-
-
-<h3 align="center">
-Aqui esta algumas informações sobre mim!
-</h3>
-
-<p align="center">
-🌱 Atualmente estou estudando sobre Python e POO(Programação Orientada a Objetos), um paradigma de programação baseado no conceito de "objetos".
-</p>
-
-<p align="center">
-💬 Tecnologia e suas variantes são algo fascinante, posso passar dias conversando sobre
-como montar uma aplicação Front End a peças para computador.
-</p>
   
 <div align="center">
   <h2>🔎 Onde me encontrar</h1>
