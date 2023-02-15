@@ -19,7 +19,7 @@
 - :mortar_board: &nbsp; Formado na escola de programação <a href="https://www.betrybe.com/" target="_blank">Trybe</a><br />
 - :atom:&nbsp; Sou entusiasta da Linguagem JavaScript, TypeScript <br /> buscando conhecimento em Python<br />
 - :octocat:&nbsp; Tenho 1 cachorro chamado Floki<br />
-- :soccer:&nbsp; Sou Grêmista, torço para o <a href="https://gremio.net/" target="_blank">Grêmio</a>.<br />
+- :soccer: &nbsp; Sou Grêmista, torço para o <a href="https://gremio.net/" target="_blank">Grêmio</a>.<br />
 - :basketball:&nbsp; Meus hobbies são ir ao Cinema, Codar<br /> e Jogar Video Game<br />
 - :speech_balloon:&nbsp; Pergunte-me sobre qualquer coisa,<br /> adoro ajudar pessoas.<br />
 - :mailbox:&nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:cristianoviieira@gmail.com" target="_blank">pessoal</a><br />
