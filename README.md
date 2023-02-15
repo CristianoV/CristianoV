@@ -17,7 +17,7 @@
 <p>
 - :briefcase: &nbsp; Desenvolvedor web Full Stack<br />
 - :mortar_board: &nbsp; Formado na escola de programação <a href="https://www.betrybe.com/" target="_blank">Trybe</a><br />
-- :atom: &nbsp; Sou entusiasta da Linguagem JavaScript, TypeScript <br /> buscando conhecimento em Python<br />
+- :atom:&nbsp; Sou entusiasta da Linguagem JavaScript, TypeScript <br /> buscando conhecimento em Python<br />
 - :octocat:&nbsp; Tenho 1 cachorro chamado Floki<br />
 - :soccer:&nbsp; Sou Grêmista, torço para o <a href="https://gremio.net/" target="_blank">Grêmio</a>.<br />
 - :basketball:&nbsp; Meus hobbies são ir ao Cinema, Codar<br /> e Jogar Video Game<br />
