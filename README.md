@@ -101,8 +101,8 @@
 
 -----
 
-<div align="center">
-  <div align="center">
+<div>
+  <div>
     <img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristianoV&theme=github_dark"/>
    </div>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristianoV&theme=github_dark"/>
