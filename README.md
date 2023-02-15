@@ -1,4 +1,33 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianov&label=Profile%20views&color=0e75b6&style=flat" alt="cristianov" /> </p>
+-----
+
+<div>
+<img align="center" alt="Header" src="https://media.licdn.com/dms/image/C4E16AQGEl8R2-_pMaQ/profile-displaybackgroundimage-shrink_350_1400/0/1656962749938?e=1681948800&v=beta&t=gYJIak8Mojec8e1KJBC9jLhqZiSsuh1kbNarGf48Rqk"/>
+</div>
+
+-----
+
+<div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/dev.gif?raw=true" width="350px" height="350px"/>
+</div>
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Meus interesses pessoais:
+
+<div align="justify">
+<p>
+- :briefcase: &nbsp; Desenvolvedor web Full Stack<br />
+- :mortar_board: &nbsp; Formado na escola de programação <a href="https://www.betrybe.com/" target="_blank">Trybe</a><br />
+- :atom: &nbsp; Sou entusiasta da Linguagem JavaScript, TypeScript <br /> buscando conhecimento em Python<br />
+- :octocat:&nbsp; Tenho 1 cachorro chamado Floki<br />
+- :soccer:&nbsp; Sou Grêmista, torço para o <a href="https://gremio.net/" target="_blank">Grêmio</a>.<br />
+- :basketball: &nbsp; Meus hobbies são ir ao Cinema, Codar e Jogar Video Game<br />
+- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:cristianoviieira@gmail.com" target="_blank">pessoal</a><br />
+- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/cristianov/reuniao-de-30-minutos" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+- :page_facing_up: &nbsp; Veja meu <a href="https://gitconnected.com/cristianov/resume" target="_blank">Currículo Lattes</a> para mais informações.
+</p>
+</div>
+</div>
 
 <h3 align="center">
 Ola 👋
@@ -84,3 +113,5 @@ como montar uma aplicação Front End a peças para computador.
 <p align="center">
   Você pode <a href="https://gitconnected.com/cristianov/resume" download="curriculo-anaclaudia" download>clicar aqui</a> para ver meu currículo.
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianov&label=Profile%20views&color=0e75b6&style=flat" alt="cristianov" /> </p>
