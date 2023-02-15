@@ -50,29 +50,7 @@
 
 -----
 
-<h3 align="center">
-Ola 👋
-</h3>
-<p align="center">
-Me chamo Cristiano, e sou um estudante de desenvolvimento web Full Stack
-</p>
-
-
-<h3 align="center">
-Aqui esta algumas informações sobre mim!
-</h3>
-
-<p align="center">
-🌱 Atualmente estou estudando sobre Python e POO(Programação Orientada a Objetos), um paradigma de programação baseado no conceito de "objetos".
-</p>
-
-<p align="center">
-💬 Tecnologia e suas variantes são algo fascinante, posso passar dias conversando sobre
-como montar uma aplicação Front End a peças para computador.
-</p>
-
-
-<h2 align="center">Linguagens e Ferramentas:</h2>
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -122,6 +100,28 @@ como montar uma aplicação Front End a peças para computador.
 </a>
 </p>
 
+-----
+
+<h3 align="center">
+Ola 👋
+</h3>
+<p align="center">
+Me chamo Cristiano, e sou um estudante de desenvolvimento web Full Stack
+</p>
+
+
+<h3 align="center">
+Aqui esta algumas informações sobre mim!
+</h3>
+
+<p align="center">
+🌱 Atualmente estou estudando sobre Python e POO(Programação Orientada a Objetos), um paradigma de programação baseado no conceito de "objetos".
+</p>
+
+<p align="center">
+💬 Tecnologia e suas variantes são algo fascinante, posso passar dias conversando sobre
+como montar uma aplicação Front End a peças para computador.
+</p>
   
 <div align="center">
   <h2>🔎 Onde me encontrar</h1>
