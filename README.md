@@ -22,8 +22,6 @@
 </td>
 <td><a href="https://www.linkedin.com/in/cristianov/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<!-- <td> <a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/discord.png?raw=true" width="50px" height="50px"/></a>
-</td> -->
 <td><a href="https://calendly.com/cristianov/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/calendar.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
