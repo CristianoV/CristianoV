@@ -24,10 +24,12 @@
 - :speech_balloon:&nbsp; Pergunte-me sobre qualquer coisa,<br /> adoro ajudar pessoas.<br />
 - :mailbox:&nbsp; Para me encontrar, esse é meu e-mail <a href="mailto:cristianoviieira@gmail.com" target="_blank">pessoal</a><br />
 - :calendar:&nbsp; Essa é minha <a href="https://calendly.com/cristianov/reuniao-de-30-minutos" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="https://gitconnected.com/cristianov/resume" target="_blank">Currículo Lattes</a> para mais informações.
+- :page_facing_up: &nbsp; Veja meu <a href="https://gitconnected.com/cristianov/resume" target="_blank">Currículo</a> para mais informações.
 </p>
 </div>
 </div>
+
+-----
 
 <h3 align="center">
 Ola 👋
