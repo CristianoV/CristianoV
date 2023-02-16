@@ -33,6 +33,7 @@
 <div align="center">
 <i><b>Olá</b> :wave:, sou o <b>Cristiano</b>, tenho 26 anos, sou de NH e comecei na programação com 15 anos de idade.</i>
 </div>
+</div>
 
 -----
 
