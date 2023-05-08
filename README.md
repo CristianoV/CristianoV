@@ -1,11 +1,4 @@
 -----
-
-<div>
-<img align="center" alt="Header" src="https://media.licdn.com/dms/image/C4E16AQGEl8R2-_pMaQ/profile-displaybackgroundimage-shrink_350_1400/0/1656962749938?e=1681948800&v=beta&t=gYJIak8Mojec8e1KJBC9jLhqZiSsuh1kbNarGf48Rqk"/>
-</div>
-
------
-
 <div align="center">
 <table>
 <tr>
